@@ -1,1 +1,1 @@
-print("thhi is the second program")
+print("this is the second program")
